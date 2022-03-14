@@ -10,9 +10,11 @@ Firstly I oppend dashboard and got an overview of the whole dashboard to get ins
 
 I found two interactive charts.
 - **First Chart:** on the left side
+
 is a heat map about which countries are most affected and have many malaria death.
 
 - **Second Chart:** on the right side
+
 is a column chart for numbers of malaria death over time with line chart of average death in each country and in Africa.
 
 
