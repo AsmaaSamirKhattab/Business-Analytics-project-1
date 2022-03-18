@@ -4,7 +4,7 @@
 Malaria Deaths in Africa: 2000-2014 is a an open dashboard on Tableau.
 It shows the number of Malaria Death over years from 2000 to 2014
 ## [Malaria in Africa](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true#2) Dashboard
-Firstly I oppend dashboard and got an overview of the whole dashboard to get insights from.
+Firstly I opend dashboard and got an overview of the whole dashboard to get insights from.
 
 ![Mal](https://user-images.githubusercontent.com/58610546/158115589-45a56485-98e6-40cb-9c46-c478e4678ca4.PNG)
 
@@ -33,7 +33,7 @@ is a column chart for numbers of malaria death over time with line chart of aver
 * The second highly affected country is **Congo** 
 * The most affected year in Congo is **2003**
 * The **average** number of malaria deaths every **year** =  **15,203** case
-* The **average** number of malaria deaths every **day** = **41.65** case
+* The **average** number of malaria deaths every **day** = **41.65** 
 
 ![image](https://user-images.githubusercontent.com/58610546/158996789-0c54576c-cdeb-43f8-a0f5-427387d3b772.png)
 
